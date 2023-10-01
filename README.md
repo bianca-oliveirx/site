@@ -1,4 +1,4 @@
-
+[
 <html><head>
 <title>PÁGINA PESSOAL DE BIANCA</title>
 <style type="text/css" id="operaUserStyle"></style></head>
@@ -27,3 +27,4 @@
 <ul>
 <li>ADMINISTRAÇÃO (EM CURSO) <a href="https://www.fsssacramento.br/"><f.s.s.s< a=""> - FSSS
 </f.s.s.s<></a></li></ul></body></html>
+](https://raw.githubusercontent.com/bianca-oliveirx/site/index/Fundo.jpg)https://raw.githubusercontent.com/bianca-oliveirx/site/index/Fundo.jpg
