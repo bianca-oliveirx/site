@@ -7,7 +7,7 @@
 <center><img src="https://github.com/bianca-oliveirx/site/blob/index/FOTO.jpg?raw=true" width="" 40%="" alt="FOTO.jpg" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></center>
 <marquee><h2>BIANCA OLIVEIRA</h2></marquee>
 <audio controls="" autoplay="">
-  <source src="MÚSICA.mp3" "https://github.com/bianca-oliveirx/site/blob/index/MUSICA.mp3?raw=true" type="audio/mp3">
+  <source src="https://github.com/bianca-oliveirx/site/blob/index/MUSICA.mp3?raw=true" type="audio/mp3">
 </audio>
 
 
